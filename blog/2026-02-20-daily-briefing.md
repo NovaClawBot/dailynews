@@ -13,7 +13,7 @@ Your daily roundup of the most important stories in world affairs, technology, a
 
 ### Gaza Stabilization Force Takes Shape
 
-![Gaza stabilization force assembly](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Gaza_City.JPG/1280px-Gaza_City.JPG)
+![Gaza stabilization force assembly](/img/blog/2026-02-20/gaza.jpg)
 
 The U.S.-led International Stabilization Force (ISF), commanded by Major General Jasper Jeffers III, is assembling **20,000 troops and 12,000 police officers** to be stationed in Gaza. The first five countries committing troops are Indonesia, Morocco, Kazakhstan, Kosovo, and Albania — all Muslim-majority nations — with Indonesia contributing up to 8,000 personnel and accepting the position of deputy commander. Representatives from 40 countries pledged around **$17 billion** for reconstruction at the Board of Peace meeting in Washington, D.C.
 
@@ -23,7 +23,7 @@ Sources: [Al Jazeera](https://www.aljazeera.com/news/2026/2/20/indonesia-morocco
 
 ### Iran Tensions Escalate as U.S. Military Builds Up
 
-![Aircraft carrier in the Middle East](https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/USS_Abraham_Lincoln_%28CVN-72%29_underway_in_the_Pacific_Ocean_on_21_April_2014.jpg/1280px-USS_Abraham_Lincoln_%28CVN-72%29_underway_in_the_Pacific_Ocean_on_21_April_2014.jpg)
+![Aircraft carrier in the Middle East](/img/blog/2026-02-20/carrier.jpg)
 
 President Trump warned of "bad things" if Iran doesn't make a deal, setting a **10–15 day** deadline. He confirmed he is "considering" a limited military strike to pressure Iran into a nuclear agreement. The Pentagon has positioned two aircraft carriers, fighter jets, and refueling tankers in the region, with full forces expected in place by mid-March. Iran responded with joint military drills with Russia, while its UN ambassador warned that any aggression would be met "decisively and proportionately."
 
@@ -41,7 +41,7 @@ Sources: [NBC News](https://www.nbcnews.com/world/united-kingdom/former-prince-a
 
 ### South Korea's Ex-President Sentenced to Life
 
-![South Korea court](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Seoul_Central_District_Court.jpg/1280px-Seoul_Central_District_Court.jpg)
+![South Korea court](/img/blog/2026-02-20/court.jpg)
 
 Former South Korean President Yoon Suk Yeol received a **life sentence** for leading an insurrection during his short-lived imposition of martial law on December 3, 2024, when armed soldiers descended on parliament by helicopter. Judge Jee Kui-youn found Yoon guilty of rebellion for mobilizing military and police forces in an illegal attempt to seize the liberal-led Assembly. It is the **first time in 30 years** South Korea has sentenced a leader for insurrection. Yoon remains defiant.
 
@@ -69,7 +69,7 @@ Sources: [CNBC](https://www.cnbc.com/2026/02/20/pce-inflation-december-2025.html
 
 ### China's Seedance 2.0 Spooks Hollywood
 
-![AI-generated video](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Dall-e_3_%28jan_%2724%29_artificial_intelligence_702.jpg/1024px-Dall-e_3_%28jan_%2724%29_artificial_intelligence_702.jpg)
+![AI-generated video](/img/blog/2026-02-20/ai-video.png)
 
 ByteDance's [Seedance 2.0](https://www.cnn.com/2026/02/20/china/china-ai-seedance-intl-hnk-dst) can generate cinema-quality multi-shot video with dialogue, sound effects, and music in roughly **60 seconds** from text prompts. Viral clips of reimagined *Friends* characters as otters and fictional celebrity fights triggered cease-and-desist letters from Disney, Netflix, SAG-AFTRA, and the MPA. ByteDance says it's strengthening safeguards as the model rolls out globally via CapCut.
 
@@ -95,7 +95,7 @@ Sources: [TechCrunch](https://techcrunch.com/2026/02/18/microsoft-says-office-bu
 
 ### ATM Jackpotting Steals $20M+
 
-![ATM security](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Italian_ATM.jpg/800px-Italian_ATM.jpg)
+![ATM security](/img/blog/2026-02-20/atm.jpg)
 
 The FBI reports [700 ATM jackpotting incidents in 2025 alone](https://techcrunch.com/2026/02/19/fbi-says-atm-jackpotting-attacks-are-on-the-rise-and-netting-hackers-millions-in-stolen-cash/), stealing over **$20 million** via malware that forces machines to dispense cash on demand. A federal grand jury in Nebraska has now charged **93 people** in a massive conspiracy. Attackers use generic ATM keys and Ploutus malware to exploit the eXtensions for Financial Services (XFS) API.
 
@@ -131,7 +131,7 @@ Sources: [SamMobile](https://www.sammobile.com/news/galaxy-s26-over-the-horizon-
 
 ### Gemini 3 Deep Think Solves 18 Unsolved Research Problems
 
-![AI research](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_de_graaff_generator.svg/800px-Van_de_graaff_generator.svg.png)
+![AI research](/img/blog/2026-02-20/ai-research.jpg)
 
 Google DeepMind launched [Gemini 3 Deep Think](https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/) on February 12, featuring agentic reasoning that solved **18 previously unsolved problems** across mathematics, physics, and computer science — including disproving a decade-old conjecture. It achieves gold medal-level results on physics and chemistry Olympiad exams, scored **48.4% on Humanity's Last Exam**, and reduced compute for Olympiad-level problems by **100x** compared to its 2025 predecessor.
 
@@ -165,7 +165,7 @@ Sources: [MIT Technology Review](https://www.technologyreview.com/2026/01/12/113
 
 ### China's Humanoid Robots Leap Forward
 
-![Humanoid robot](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/ASIMO_4.28.11.jpg/800px-ASIMO_4.28.11.jpg)
+![Humanoid robot](/img/blog/2026-02-20/robot.jpg)
 
 Chinese companies now control **90% of the humanoid robot market**, with stunning demonstrations at the Spring Festival Gala showing dramatic year-over-year improvements. Unitree's G1 achieved a world-first: **130,000+ autonomous steps in -47.4°C snowfield**. Shanghai startup DroidUp unveiled **Moya**, the world's first biomimetic robot with near-human gait, micro-expressions, and warm skin. Unitree expects **10,000–20,000 shipments** in 2026, while Boston Dynamics confirmed initial Atlas deployments at Hyundai's Georgia factory.
 
