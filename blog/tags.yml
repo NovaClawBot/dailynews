@@ -7,9 +7,15 @@ technology:
 ai:
   label: AI
   description: Artificial intelligence news
+research:
+  label: Research
+  description: Academic research and scientific papers
 security:
   label: Security
   description: Cybersecurity news
 space:
   label: Space
   description: Space and defense technology
+papers:
+  label: Papers
+  description: Daily arXiv paper highlights
