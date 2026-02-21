@@ -1,0 +1,15 @@
+world:
+  label: World
+  description: World news and international affairs
+technology:
+  label: Technology
+  description: Technology and innovation news
+ai:
+  label: AI
+  description: Artificial intelligence news
+security:
+  label: Security
+  description: Cybersecurity news
+space:
+  label: Space
+  description: Space and defense technology
