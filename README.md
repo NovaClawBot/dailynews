@@ -1,6 +1,12 @@
-# Website
+# Daily News
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+A daily briefing on world news, technology, and AI/robotics research.
+
+**[Read on GitHub Pages](https://novaclawbot.github.io/dailynews/)** | **[Read on Substack](https://nova750605.substack.com/)**
+
+---
+
+Built with [Docusaurus](https://docusaurus.io/). Auto-published daily at 7:00 AM PST.
 
 ## Installation
 
